@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Clone of a layout of MessagEase Keyboard for Russian language -->
+<keyboard name="MessagEase Russian" bottom_row="false" script="cyrillic">
+  <row height="0.8">
+    <key key0="с" key3="$" key4="п" key6="-" key8="ц" shift="2.6"/>
+    <key key0="и" key1="`" key2="´" key3="/" key5="+" key6="!" key7="й" key8="к"/>
+    <key key0="т" key3="ь" key4="€" key5="\?" key7="up" key8="="/>
+    <key key0="ctrl" key7="config" width="1.15"/>
+  </row>
+  <row height="0.8">
+    <key key0="в" key1="{" key2="%" key3="[" key4="_" key5="(" key6="ы" key7="б" key8="ъ" shift="2.6"/>
+    <key key0="о" key1="ч" key2="х" key3="щ" key4="ш" key5="ж" key6="г" key7="м" key8="я"/>
+    <key key0="а" key1="|" key2="}" key3="\@" key4="]" key5="л" key6=")" key7="shift"/>
+    <key key0="switch_numeric" key1="cut" key2="selectAll" key3="voice_typing" key5="switch_forward" key6="switch_backward" key7="copy" key8="paste" width="1.15"/>
+  </row>
+  <row height="0.8">
+    <key key0="е" key1="~" key2="д" key4="tab" key5="&lt;" key6="э" key7="ё" key8=";" shift="2.6"/>
+    <key key0="р" key1="&quot;" key2="'" key3="," key4=":" key5="ю" key6="з" key7="у" key8="."/>
+    <key key0="н" key1="ф" key2="°" key3=";" key5="\#" key6="&gt;" key7="&amp;" key8="down"/>
+    <key key0="backspace" key6="delete" width="1.15"/>
+  </row>
+  <row height="0.8">
+    <key key0="space" key5="cursor_left" key6="cursor_right" slider="true" width="3.0" shift="2.6"/>
+    <key key0="enter" key7="action" width="1.15"/>
+  </row>
+</keyboard>
